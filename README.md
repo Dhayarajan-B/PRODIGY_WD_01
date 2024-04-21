@@ -1,1 +1,1 @@
-This is my Prodigy task where i have built a Responsive landing page. It includes a interactive navigation menu that changes color when hover over it. The landing page is also responsive that automatically fit for different size screens.
+This is my Prodigy task where i have built a Responsive landing page. It includes a interactive navigation menu that changes color when hover over it. The landing page is also responsive that automatically fit for different size screens.I have used HTML and CSS for frontend and Javascript for backend.
